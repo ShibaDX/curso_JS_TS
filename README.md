@@ -1,0 +1,1 @@
+Arquivos utilizados nas aulas do curso de Javascript e Typescript da Udemy, ministrado pelo prof. Luiz Otávio Miranda
